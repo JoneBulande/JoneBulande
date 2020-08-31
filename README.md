@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JoneBulande github stats](https://github-readme-stats.vercel.app/api?username=JoneBulande&show_icons=true&theme=tokyonight)
+![JoneBulande github stats](https://github-readme-stats.vercel.app/api?username=JoneBulande&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoneBulande&theme=tokyonight)](https://github.com/JoneBulande/github-readme-stats)
 
 ## Languages
