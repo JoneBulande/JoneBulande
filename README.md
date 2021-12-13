@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
+
  <a href="https://github.com/JoneBulande">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoneBulande&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneBulande&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoneBulande&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneBulande&layout=compact&langs_count=7&theme=tokyonight"/>
  </a>
  <br>
 
-</div>
+
 <div align="center">
   <h3> Tecnologias Que uso </h3>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
