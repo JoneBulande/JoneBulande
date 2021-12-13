@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoneBulande&theme=tokyonight)](https://github.com/JoneBulande/github-readme-stats)
-<br/>
-![JoneBulande github stats](https://github-readme-stats.vercel.app/api?username=JoneBulande&show_icons=true&theme=tokyonight)
+ <a href="https://github.com/JoneBulande">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoneBulande&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneBulande&layout=compact&langs_count=7&theme=gruvbox"/>
+ </a>
+ <br>
 
 </div>
 <div align="center">
