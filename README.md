@@ -30,8 +30,18 @@
 <div align="center">
     <h2>
       📖  And some of the ones I'm studying or that I know a little less  📖
-    </h2>
+    </h2>    
     <a href="https://reactnative.dev/"><img height= "35" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</div>
+
+<div align="center">
+    <h2>
+      👇🏻  You can find me here  👇🏻
+    </h2>
+    <a href="mailto:JoneProgrammer@gmail.com"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/jone-bulande"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://discordapp.com/users/814438430732845076"><img height="35" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    
 </div>
